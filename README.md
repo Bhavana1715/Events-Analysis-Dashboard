@@ -70,7 +70,9 @@ The dataset enables deep exploration of trends, profitability, organizers’ eff
 ## 💠 **Tools Used**
 
 🧹 **Pandas**, **NumPy** — Data Cleaning & Pre-processing
+
 📊 **Power BI** — Power Query, Data Modeling, DAX Measures, Dashboard Creation
+
 📝 **GitHub** — Documentation & Version Control
 
 ---
@@ -82,8 +84,6 @@ Below insights are directly derived from your Event Management Dashboard PDF.
 ---
 
 ## ⭐ **Key Performance Indicators (KPIs)**
-
-From page 2 of your PDF :
 
 * **Total Events:** 9,964
 * **Total Registrations:** 537K
@@ -97,7 +97,11 @@ These numbers indicate strong interest, high turnout, and effective event execut
 
 ## ⭐ **Annual Registrations & Attendance (2017–2025)**
 
-📍 As seen in the Annual Attendees & Registrations chart (page 2) :
+
+![a](https://github.com/user-attachments/assets/56d70315-3155-479e-bf84-afd723d5123a)
+
+
+
 
 * Registrations range between **62K–68K** annually.
 * Attendance closely follows registrations, proving consistent audience conversion.
@@ -107,7 +111,9 @@ These numbers indicate strong interest, high turnout, and effective event execut
 
 ## ⭐ **Monthly Engagement Trends**
 
-📍 From page 2 of your dashboard :
+![bb](https://github.com/user-attachments/assets/d1f35ced-4447-4ac7-b5d3-5efa0fd5e668)
+
+
 
 * Peak months: **January, May, July, August**
 * Dip in **December**, likely due to holidays.
@@ -117,7 +123,10 @@ These numbers indicate strong interest, high turnout, and effective event execut
 
 ## ⭐ **Event Format Performance (Hybrid vs In-Person vs Virtual)**
 
-📍 Bar chart on page 2 displays category performance across formats :
+
+
+![cc](https://github.com/user-attachments/assets/c04009f0-e95a-43a9-ba4b-365c12550118)
+
 
 * **In-Person Events** → Highest attendance & ratings
 * **Hybrid Events** → Balanced performance with strong profitability
@@ -129,7 +138,8 @@ In-person experiences remain dominant in India’s event landscape.
 
 ## ⭐ **Attendance by City**
 
-📍 Map on page 2 of the PDF :
+
+![ddd](https://github.com/user-attachments/assets/3156cc2e-a5b6-4ff9-9819-ca5a666aeec3)
 
 Top cities by attendance:
 🌟 **Chennai**
@@ -146,7 +156,8 @@ Southern India leads both in frequency and turnout.
 
 ## ⭐ **ROI (%) by Category**
 
-📍 Page 3 of the PDF shows ROI distribution: 
+![ff](https://github.com/user-attachments/assets/1c8d3106-2c29-4f9f-95db-5fda94ac3ad5)
+
 
 🥇 **Arts** – 68%
 🥈 **Food** – 65%
@@ -161,7 +172,8 @@ Categories like Arts, Entertainment, Film, and Food deliver maximum returns.
 
 ## ⭐ **Category-Wise Profit Breakdown**
 
-📍 Pie chart on page 3 :
+![ii](https://github.com/user-attachments/assets/780b0cd2-1a44-4cb3-8c8f-c194b15cba68)
+
 
 * **Business:** 28M (22.7%)
 * **Technology:** 25M (20.7%)
@@ -176,7 +188,8 @@ Business & Technology together form nearly **45% of total profits**.
 
 ## ⭐ **Investment vs Revenue (Yearly)**
 
-📍 Page 3 line chart :
+
+![uu](https://github.com/user-attachments/assets/d795af94-6258-4526-a877-e4ff788a4870)
 
 * Revenue consistently exceeds investment across all years.
 * Overall ROI: 🌟 **53.77%**
