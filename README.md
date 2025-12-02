@@ -238,14 +238,23 @@ Cities with highest ROI (71–75%):
 
 
 Highest-rated events (4.5–4.8 stars):
+
 🍳 International Cooking
+
 🧁 Baking Masterclass
+
 🧘 Yoga & Sports Conference
+
 🍽️ Gourmet Food Tasting
+
 🎯 Team Building
+
 🏀 Basketball Clinic
+
 📈 Financial Planning Meet
+
 🏏 Local Cricket Tournament
+
 👨‍💼 Project Management Workshop
 
 ---
@@ -287,9 +296,13 @@ Highest-rated events (4.5–4.8 stars):
 
 
 ✨ AppDevGuild
+
 ✨ DigiMarkPro
+
 ✨ ProjectFlow
+
 ✨ SoundCanvas
+
 ✨ TechSkills
 
 DigiMarkPro leads with highest total profit (~11.9M).
@@ -320,7 +333,8 @@ Food dramatically improves turnout & satisfaction.
 
 ## ⭐ **Weekday vs Weekend Events**
 
-![6](https://github.com/user-attachments/assets/b6bd3a0a-5abc-4f37-8126-07d667d98f3a)
+
+![6](https://github.com/user-attachments/assets/a28a040c-a544-43cb-9ef7-a426db62a50c)
 
 
 * **Weekdays:** 71.47% events (more successful)
