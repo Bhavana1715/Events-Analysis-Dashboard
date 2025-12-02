@@ -319,7 +319,8 @@ Food dramatically improves turnout & satisfaction.
 
 ## ⭐ **Weekday vs Weekend Events**
 
-📍 Page 5 stats :
+![6](https://github.com/user-attachments/assets/b6bd3a0a-5abc-4f37-8126-07d667d98f3a)
+
 
 * **Weekdays:** 71.47% events (more successful)
 * **Weekends:** 28.53%
