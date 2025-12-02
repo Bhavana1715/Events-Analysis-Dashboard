@@ -233,7 +233,8 @@ Cities with highest ROI (71–75%):
 
 ## ⭐ **Top 10 Highest-Rated Events**
 
-📍 Page 4 list :
+![a](https://github.com/user-attachments/assets/83c5e153-bf1a-41ac-a670-461d8e037076)
+
 
 Highest-rated events (4.5–4.8 stars):
 🍳 International Cooking
@@ -250,7 +251,9 @@ Highest-rated events (4.5–4.8 stars):
 
 ## ⭐ **Top Event-Hosting States & Cities**
 
-📍 Page 4 bar charts :
+![s](https://github.com/user-attachments/assets/523b4353-9188-4396-b52d-8a063a7694ad)
+
+
 
 ### **States**
 
@@ -272,7 +275,8 @@ Highest-rated events (4.5–4.8 stars):
 
 ## ⭐ **Top Organizers**
 
-📍 Page 4 organizer ranking :
+![f](https://github.com/user-attachments/assets/cc105b75-aa2d-4038-9659-2ec16559043a)
+
 
 ✨ AppDevGuild
 ✨ DigiMarkPro
@@ -286,7 +290,8 @@ DigiMarkPro leads with highest total profit (~11.9M).
 
 ## ⭐ **Food Availability vs Attendance**
 
-📍 Pie chart on page 4 :
+![g](https://github.com/user-attachments/assets/15f5cbf9-6146-40fd-aa99-1b2912e934b6)
+
 
 * **With Snacks/Lunch:** 389K attendees (80.06%)
 * **Without Food:** 97K attendees (19.94%)
