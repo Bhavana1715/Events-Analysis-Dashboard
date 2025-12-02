@@ -262,7 +262,9 @@ Highest-rated events (4.5–4.8 stars):
 3. Kerala – 728
 4. Gujarat – 718
 5. Maharashtra – 716
-   ![d](https://github.com/user-attachments/assets/5b108a93-9da2-4f79-835c-18b2d4ce1264)
+   
+
+![d](https://github.com/user-attachments/assets/5b108a93-9da2-4f79-835c-18b2d4ce1264)
 
 
 ### **Cities**
