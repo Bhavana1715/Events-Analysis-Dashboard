@@ -264,7 +264,10 @@ Highest-rated events (4.5–4.8 stars):
 5. Maharashtra – 716
    
 
-![d](https://github.com/user-attachments/assets/5b108a93-9da2-4f79-835c-18b2d4ce1264)
+
+![d (4)](https://github.com/user-attachments/assets/81832f80-4cab-484e-a91b-78c6bb18c9cd)
+
+
 
 
 ### **Cities**
