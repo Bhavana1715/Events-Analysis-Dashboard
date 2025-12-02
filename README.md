@@ -156,14 +156,19 @@ Southern India leads both in frequency and turnout.
 
 ## ⭐ **ROI (%) by Category**
 
-![ff](https://github.com/user-attachments/assets/1c8d3106-2c29-4f9f-95db-5fda94ac3ad5)
+![q](https://github.com/user-attachments/assets/5f960342-eece-4aee-a307-ce0fd600e09b)
 
 
 🥇 **Arts** – 68%
+
 🥈 **Food** – 65%
+
 🥉 **Entertainment** – 65%
+
 🎬 **Film** – 64%
+
 🏅 **Sports** – 63%
+
 ⚠️ **Literature** – −100% (lowest ROI)
 
 Categories like Arts, Entertainment, Film, and Food deliver maximum returns.
@@ -172,7 +177,8 @@ Categories like Arts, Entertainment, Film, and Food deliver maximum returns.
 
 ## ⭐ **Category-Wise Profit Breakdown**
 
-![ii](https://github.com/user-attachments/assets/780b0cd2-1a44-4cb3-8c8f-c194b15cba68)
+![w](https://github.com/user-attachments/assets/b4a1b39a-5d97-4659-8acb-d0527705260b)
+
 
 
 * **Business:** 28M (22.7%)
@@ -189,7 +195,8 @@ Business & Technology together form nearly **45% of total profits**.
 ## ⭐ **Investment vs Revenue (Yearly)**
 
 
-![uu](https://github.com/user-attachments/assets/d795af94-6258-4526-a877-e4ff788a4870)
+![e](https://github.com/user-attachments/assets/a56c9094-c5ad-49d3-b1b3-44f519c71e88)
+
 
 * Revenue consistently exceeds investment across all years.
 * Overall ROI: 🌟 **53.77%**
@@ -201,15 +208,23 @@ Business & Technology together form nearly **45% of total profits**.
 
 ## ⭐ **ROI by City & State**
 
-📍 Page 3 graph: 
+![t](https://github.com/user-attachments/assets/c16822fb-840b-4272-80d0-deb6f8ea26c9)
+
 
 Cities with highest ROI (71–75%):
+
 🔹 Dehradun
+
 🔹 Mysuru
+
 🔹 Vadodara
+
 🔹 Gurgaon
+
 🔹 Kochi
+
 🔹 Kozhikode
+
 🔹 Vijayawada
 
 ---
