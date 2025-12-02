@@ -79,7 +79,8 @@ The dataset enables deep exploration of trends, profitability, organizers’ eff
 
 # ✨ **Key Insights & Findings**
 
-Below insights are directly derived from your Event Management Dashboard PDF.
+
+
 
 ---
 
