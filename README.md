@@ -262,6 +262,8 @@ Highest-rated events (4.5–4.8 stars):
 3. Kerala – 728
 4. Gujarat – 718
 5. Maharashtra – 716
+   ![d](https://github.com/user-attachments/assets/5b108a93-9da2-4f79-835c-18b2d4ce1264)
+
 
 ### **Cities**
 
@@ -302,7 +304,8 @@ Food dramatically improves turnout & satisfaction.
 
 ## ⭐ **Seating Capacity Insights**
 
-📍 Page 4 scatter plot reveals:
+![h](https://github.com/user-attachments/assets/736e8606-3ea7-43e3-84bd-cf106fc333f2)
+
 
 * Best outcomes when seating is between **100–150 seats**.
 * Both registrations and attendees increase within this range.
